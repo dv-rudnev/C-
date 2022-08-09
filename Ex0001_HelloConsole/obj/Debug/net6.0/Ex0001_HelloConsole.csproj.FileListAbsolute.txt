@@ -1,0 +1,15 @@
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\bin\Debug\net6.0\Ex0001_HelloConsole.exe
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\bin\Debug\net6.0\Ex0001_HelloConsole.deps.json
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\bin\Debug\net6.0\Ex0001_HelloConsole.runtimeconfig.json
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\bin\Debug\net6.0\Ex0001_HelloConsole.dll
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\bin\Debug\net6.0\Ex0001_HelloConsole.pdb
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\obj\Debug\net6.0\Ex0001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\obj\Debug\net6.0\Ex0001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\obj\Debug\net6.0\Ex0001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\obj\Debug\net6.0\Ex0001_HelloConsole.AssemblyInfo.cs
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\obj\Debug\net6.0\Ex0001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\obj\Debug\net6.0\Ex0001_HelloConsole.dll
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\obj\Debug\net6.0\refint\Ex0001_HelloConsole.dll
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\obj\Debug\net6.0\Ex0001_HelloConsole.pdb
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\obj\Debug\net6.0\Ex0001_HelloConsole.genruntimeconfig.cache
+C:\Users\Yurubu\Desktop\C#\Ex0001_HelloConsole\obj\Debug\net6.0\ref\Ex0001_HelloConsole.dll
